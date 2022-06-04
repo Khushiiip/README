@@ -20,10 +20,10 @@ How to compile & run the Budget Program
 
 
 # Changes Made in Part2 In PartOne of the application 
-*In PartOne I have gotten a low mark (55%) for Task1. This is because I have missed some main components that could have helped me into achieving a better mark. Below is a list of a few things that I have added into PartTwo of the application to achieve a better understanding of the POE.
+* In PartOne I have gotten a low mark (55%) for Task1. This is because I have missed some main components that could have helped me into achieving a better mark. Below is a list of a few things that I have added into PartTwo of the application to achieve a better understanding of the POE.
 
-*The biggest section that I have lost my marks is was in my documentation section of the task. I have misunderstood the assignment and thought that a README file only includes the source code of the application and nothing else. In PartTow of the POE I have made sure to include this README file to help me gain a better mark for the fine POE.
-*I have also tried to improve on my coding standards by including more comments to help one navigate their way around the code. I have also made use of more classes and inheritance to present the code more logical format.
-*I have added a much more logical if-else statement to make the calculations and logic within the program make more sense when put into use.
-*I have also uploaded more videos proofs showing the different scenarios and what would happen if the user choses different options
-*I have taken out the array aspect from the application and added in a generic collection to store the expenses of the user
+* The biggest section that I have lost my marks is was in my documentation section of the task. I have misunderstood the assignment and thought that a README file only includes the source code of the application and nothing else. In PartTow of the POE I have made sure to include this README file to help me gain a better mark for the fine POE.
+* I have also tried to improve on my coding standards by including more comments to help one navigate their way around the code. I have also made use of more classes and inheritance to present the code more logical format.
+* I have added a much more logical if-else statement to make the calculations and logic within the program make more sense when put into use.
+* I have also uploaded more videos proofs showing the different scenarios and what would happen if the user choses different options
+* I have taken out the array aspect from the application and added in a generic collection to store the expenses of the user
